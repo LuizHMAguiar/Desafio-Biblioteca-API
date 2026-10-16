@@ -1,0 +1,178 @@
+{
+  "livros": [
+    {
+      "titulo": "A biblioteca da meia-noite",
+      "autor": "Matt Haig",
+      "nota": "5 - Uma história envolvente sobre escolhas e recomeços.",
+      "id_aluno": "1"
+    },
+    {
+      "titulo": "O pequeno príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "nota": "5 - Simples e emocionante; gostei das reflexões sobre amizade.",
+      "id_aluno": "2"
+    },
+    {
+      "titulo": "Quarto de despejo",
+      "autor": "Carolina Maria de Jesus",
+      "nota": "5 - Leitura impactante que apresenta uma realidade importante.",
+      "id_aluno": "3"
+    },
+    {
+      "titulo": "Capitães da Areia",
+      "autor": "Jorge Amado",
+      "nota": "4 - Personagens marcantes e uma narrativa muito interessante.",
+      "id_aluno": "4"
+    },
+    {
+      "titulo": "Extraordinário",
+      "autor": "R. J. Palacio",
+      "nota": "5 - A leitura me fez pensar sobre empatia e respeito.",
+      "id_aluno": "5"
+    },
+    {
+      "titulo": "O escaravelho do diabo",
+      "autor": "Lúcia Machado de Almeida",
+      "nota": "4 - Mistério divertido, com um final surpreendente.",
+      "id_aluno": "1"
+    },
+    {
+      "titulo": "A hora da estrela",
+      "autor": "Clarice Lispector",
+      "nota": "4 - Texto curto, mas cheio de detalhes para refletir.",
+      "id_aluno": "2"
+    },
+    {
+      "titulo": "Meu pé de laranja lima",
+      "autor": "José Mauro de Vasconcelos",
+      "nota": "5 - Emocionante e fácil de acompanhar.",
+      "id_aluno": "3"
+    },
+    {
+      "titulo": "O menino do pijama listrado",
+      "autor": "John Boyne",
+      "nota": "4 - História comovente que provoca uma reflexão importante.",
+      "id_aluno": "4"
+    },
+    {
+      "titulo": "Vidas secas",
+      "autor": "Graciliano Ramos",
+      "nota": "4 - A linguagem exige atenção, mas a história é muito forte.",
+      "id_aluno": "5"
+    },
+    {
+      "titulo": "Anne de Green Gables",
+      "autor": "Lucy Maud Montgomery",
+      "nota": "5 - Anne é uma personagem cativante e cheia de imaginação.",
+      "id_aluno": "1"
+    },
+    {
+      "titulo": "O diário de Anne Frank",
+      "autor": "Anne Frank",
+      "nota": "5 - Relato comovente que ajuda a compreender a história.",
+      "id_aluno": "2"
+    },
+    {
+      "titulo": "A ilha perdida",
+      "autor": "Maria José Dupré",
+      "nota": "4 - Aventura agradável e ótima para ler em pouco tempo.",
+      "id_aluno": "3"
+    },
+    {
+      "titulo": "Sítio do Picapau Amarelo: Reinações de Narizinho",
+      "autor": "Monteiro Lobato",
+      "nota": "4 - Criativo e divertido, especialmente pelas personagens.",
+      "id_aluno": "4"
+    },
+    {
+      "titulo": "Alice no País das Maravilhas",
+      "autor": "Lewis Carroll",
+      "nota": "4 - Uma aventura diferente, com cenas muito imaginativas.",
+      "id_aluno": "5"
+    },
+    {
+      "titulo": "O cortiço",
+      "autor": "Aluísio Azevedo",
+      "nota": "3 - Interessante para estudar a sociedade, embora algumas partes sejam densas.",
+      "id_aluno": "1"
+    },
+    {
+      "titulo": "A bolsa amarela",
+      "autor": "Lygia Bojunga",
+      "nota": "5 - Criativo e sensível; gostei muito da protagonista.",
+      "id_aluno": "2"
+    },
+    {
+      "titulo": "O homem que calculava",
+      "autor": "Malba Tahan",
+      "nota": "4 - Os desafios matemáticos deixam a leitura divertida.",
+      "id_aluno": "3"
+    },
+    {
+      "titulo": "Ponciá Vicêncio",
+      "autor": "Conceição Evaristo",
+      "nota": "5 - Uma narrativa poética e importante, que merece ser discutida.",
+      "id_aluno": "4"
+    },
+    {
+      "titulo": "A invenção de Hugo Cabret",
+      "autor": "Brian Selznick",
+      "nota": "5 - As ilustrações e o mistério tornam o livro especial.",
+      "id_aluno": "5"
+    }
+  ],
+  "estudantes": [
+    {
+      "matricula": "2026001",
+      "nome": "Marina Oliveira",
+      "pontuacao": "85"
+    },
+    {
+      "matricula": "2026002",
+      "nome": "Caio Mendes",
+      "pontuacao": "72"
+    },
+    {
+      "matricula": "2026003",
+      "nome": "Lívia Santos",
+      "pontuacao": "94"
+    },
+    {
+      "matricula": "2026004",
+      "nome": "Rafael Costa",
+      "pontuacao": "68"
+    },
+    {
+      "matricula": "2026005",
+      "nome": "Beatriz Almeida",
+      "pontuacao": "100"
+    }
+  ],
+  "metas": [
+    {
+      "id": 1,
+      "pontuacao": 50,
+      "titulo": "Primeira leitura",
+      "texto": "Leia e avalie seu primeiro livro."
+    },
+    {
+      "id": 2,
+      "pontuacao": 100,
+      "titulo": "Leitor frequente",
+      "texto": "Leia e avalie cinco livros."
+    },
+    {
+      "id": 3,
+      "pontuacao": 250,
+      "titulo": "Clube dos leitores",
+      "texto": "Leia e avalie dez livros."
+    }
+  ],
+  "coordenadores": [
+    {
+      "nome": "Alexandre Ribeiro",
+      "email": "alexandre.ribeiro@example.com",
+      "senha": "TesteBiblioteca2026!"
+    }
+  ]
+}
